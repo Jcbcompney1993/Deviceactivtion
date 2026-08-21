@@ -28,5 +28,11 @@
         "key": "AQ23HD45",
         "expirydate": "31-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "241",
+        "key": "DP-VIP-XKA73O",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
     }
 ]
