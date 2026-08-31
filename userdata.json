@@ -40,5 +40,11 @@
         "key": "AQ56HR65",
         "expirydate": "19-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a7",
+        "key": "AR45FK365",
+        "expirydate": "19-09-2026",
+        "Allowoffline": false
     }
 ]
