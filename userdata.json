@@ -9,7 +9,7 @@
         "device_id": "862cba7e7223f8a9",
         "key": "VIP-F1HD8J5",
         "expirydate": "01-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "fbce904109632c8e",
@@ -42,7 +42,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1a7",
+        "device_id": "b6fc13073abcdbfa",
         "key": "AR45FK365",
         "expirydate": "19-09-2026",
         "Allowoffline": false
