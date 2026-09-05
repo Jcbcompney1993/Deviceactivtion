@@ -15,36 +15,36 @@
         "device_id": "fbce904109632c8e",
         "key": "Khan1324",
         "expirydate": "29-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "b6fc13073abcdbfa",
         "key": "AFQG11FQ",
         "expirydate": "02-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true 
     },
     {
         "device_id": "241e8c465f765ec5",
         "key": "AQ23HD45",
         "expirydate": "24-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true 
     },
     {
         "device_id": "d40b756b92d04e2b",
         "key": "DP-VIP-XKA73O",
         "expirydate": "08-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true 
     },
     {
         "device_id": "1a73a9c5a5bde0f7",
         "key": "AQ56HR65",
         "expirydate": "19-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true 
     },
     {
         "device_id": "b6fc13073abcdbfa",
         "key": "AR45FK365",
         "expirydate": "19-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true 
     }
 ]
