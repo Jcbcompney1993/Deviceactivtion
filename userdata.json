@@ -46,5 +46,24 @@
         "key": "VIP-KGE250M",
         "expirydate": "29-10-2026",
         "Allowoffline": true 
-    }
+    },
+    {
+        "device_id": "1b79728c7636ad14",
+        "key": "AH23FG78",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true 
+    },
+    
+    {
+        "device_id": "0c943636fd9f4bdc",
+        "key": "RH784M5",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true 
+    },
+    {
+        "device_id": "b6fc13073abcdbfa",
+        "key": "AS45HG76",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true 
+    },
 ]
