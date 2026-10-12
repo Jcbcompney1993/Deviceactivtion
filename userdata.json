@@ -66,4 +66,16 @@
         "expirydate": "29-10-2026",
         "Allowoffline": true 
     },
+   {
+        "device_id": "1a73a9c5a5bde0f7",
+        "key": "GH34KL89",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true 
+    },
+       {
+        "device_id": "b6fc13073abcdbfa",
+        "key": "AFQG11FQ",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true 
+    }
 ]
