@@ -77,5 +77,11 @@
         "key": "HJ45DF89",
         "expirydate": "29-10-2026",
         "Allowoffline": true 
+    },
+    {
+        "device_id": "b716c5eae8900f81",
+        "key": "RW25HG85",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true 
     }
 ]
